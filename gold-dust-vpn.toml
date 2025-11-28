@@ -1,0 +1,3 @@
+[backends]
+oxen_enabled = true
+tor_enabled = true
